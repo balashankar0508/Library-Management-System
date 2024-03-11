@@ -30,3 +30,9 @@ Login Activity :
 
         4. Delete : 
             => Delete the Book entire detaoils by using Book ID.
+
+*) Student Activity : 
+
+        Students Can Do : 
+            1. View : 
+                => Students can view the available Books by their Department
